@@ -1,2 +1,2 @@
 # AmazScrape-Mobile-Explorer
-AmazScrape Mobile Explorer, a Python web scraping tool with Selenium, extracts vital information on mobile phones from Amazon India. 
+AmazScrape Mobile Explorer is a Python-based web scraping tool using Selenium, designed to extract valuable information about mobile phones available on Amazon India. The script navigates through the Amazon website, searches for mobile phones under a specified price range, and compiles relevant data, including mobile names and prices. The scraped data is then organized into a pandas DataFrame and exported to a CSV file for further analysis or integration into other applications.
